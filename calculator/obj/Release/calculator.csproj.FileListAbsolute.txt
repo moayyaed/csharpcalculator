@@ -1,0 +1,10 @@
+C:\Users\jacob.sundh\source\repos\calculator\calculator\bin\Release\calculator.exe.config
+C:\Users\jacob.sundh\source\repos\calculator\calculator\bin\Release\calculator.exe
+C:\Users\jacob.sundh\source\repos\calculator\calculator\bin\Release\calculator.pdb
+C:\Users\jacob.sundh\source\repos\calculator\calculator\obj\Release\calculator.csprojAssemblyReference.cache
+C:\Users\jacob.sundh\source\repos\calculator\calculator\obj\Release\calculator.Form1.resources
+C:\Users\jacob.sundh\source\repos\calculator\calculator\obj\Release\calculator.Properties.Resources.resources
+C:\Users\jacob.sundh\source\repos\calculator\calculator\obj\Release\calculator.csproj.GenerateResource.cache
+C:\Users\jacob.sundh\source\repos\calculator\calculator\obj\Release\calculator.csproj.CoreCompileInputs.cache
+C:\Users\jacob.sundh\source\repos\calculator\calculator\obj\Release\calculator.exe
+C:\Users\jacob.sundh\source\repos\calculator\calculator\obj\Release\calculator.pdb
